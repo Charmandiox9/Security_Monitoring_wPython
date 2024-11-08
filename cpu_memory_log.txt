@@ -1,0 +1,21 @@
+2024-11-07 19:34:33,143 - Evento de seguridad: Uso de CPU: 12.5% - Uso de Memoria: 69.6%
+2024-11-07 19:34:34,152 - Evento de seguridad: Uso de CPU: 21.2% - Uso de Memoria: 69.6%
+2024-11-07 19:34:34,152 - Evento de seguridad: Uso de CPU: 21.2% - Uso de Memoria: 69.6%
+2024-11-07 19:34:35,160 - Evento de seguridad: Uso de CPU: 24.5% - Uso de Memoria: 69.6%
+2024-11-07 19:34:35,160 - Evento de seguridad: Uso de CPU: 24.5% - Uso de Memoria: 69.6%
+2024-11-07 19:34:35,160 - Evento de seguridad: Uso de CPU: 24.5% - Uso de Memoria: 69.6%
+2024-11-07 19:34:36,181 - Evento de seguridad: Uso de CPU: 12.7% - Uso de Memoria: 69.5%
+2024-11-07 19:34:36,181 - Evento de seguridad: Uso de CPU: 12.7% - Uso de Memoria: 69.5%
+2024-11-07 19:34:36,181 - Evento de seguridad: Uso de CPU: 12.7% - Uso de Memoria: 69.5%
+2024-11-07 19:34:36,181 - Evento de seguridad: Uso de CPU: 12.7% - Uso de Memoria: 69.5%
+2024-11-07 19:34:37,193 - Evento de seguridad: Uso de CPU: 20.3% - Uso de Memoria: 69.5%
+2024-11-07 19:34:37,193 - Evento de seguridad: Uso de CPU: 20.3% - Uso de Memoria: 69.5%
+2024-11-07 19:34:37,193 - Evento de seguridad: Uso de CPU: 20.3% - Uso de Memoria: 69.5%
+2024-11-07 19:34:37,193 - Evento de seguridad: Uso de CPU: 20.3% - Uso de Memoria: 69.5%
+2024-11-07 19:34:37,193 - Evento de seguridad: Uso de CPU: 20.3% - Uso de Memoria: 69.5%
+2024-11-07 20:40:51,724 - CPU: 25.1%, Memoria: 74.3%, GPU: 0%
+2024-11-07 20:40:57,752 - CPU: 47.3%, Memoria: 74.2%, GPU: 0%
+2024-11-07 20:40:57,752 - CPU: 47.3%, Memoria: 74.2%, GPU: 0%
+2024-11-07 20:44:32,551 - CPU: 17.2%, Memoria: 78.3%, GPU: 0%
+2024-11-07 20:44:38,567 - CPU: 43.4%, Memoria: 77.8%, GPU: 0%
+2024-11-07 20:44:38,567 - CPU: 43.4%, Memoria: 77.8%, GPU: 0%
